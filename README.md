@@ -2,7 +2,7 @@ The repository contains the modeling, plotting, and output for the research on "
 
 A description of each file and folder is provided below:
 
-Code: Contains the statistical models and cross-validation code.
+Code: Contains the statistical models, cross-validation code and simulations.
 
 Figure: Includes the code for generating the plots.
 
