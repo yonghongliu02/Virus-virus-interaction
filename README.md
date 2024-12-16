@@ -3,5 +3,7 @@ The repository contains the modeling, plotting, and output for the research on "
 A description of each file and folder is provided below:
 
 Code: Contains the statistical models and cross-validation code.
+
 Figure: Includes the code for generating the plots.
+
 Model Output and Cross-Validation Results: Due to the large volume of results, they have been uploaded to Google Drive. https://drive.google.com/drive/folders/1frMBz9-eCFj1hXrt6uQW68ZxPZDQLm3R?usp=sharing
