@@ -2,8 +2,6 @@ The repository contains the modeling, plotting, and output for the research on "
 
 A description of each file and folder is provided below:
 
-Code: Contains the statistical models, cross-validation code and simulations.
+Script: Contains the statistical models, multiplicative model and mathematical model scripts.
 
-Figure: Includes the code for generating the plots.
-
-Model Output and Cross-Validation Results: Due to the large volume of results, they have been uploaded to Google Drive. https://drive.google.com/drive/folders/1frMBz9-eCFj1hXrt6uQW68ZxPZDQLm3R?usp=sharing
+Figure: Includes the scripts for generating the plots.
